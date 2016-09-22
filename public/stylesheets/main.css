@@ -1,0 +1,16 @@
+/** all images inside of a bootstrap thumbnail **/
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail {
+
+}
+
+.thumbnail .caption-full {
+	padding: 9px;
+} 
+
+#deleteForm {
+	display: inline;
+}
